@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nimish",
+        "age": 20,
+        "email": "ksdweoh@12",
+        "pin": 1234,
+        "phone": "2121212121",
+        "accountno": "pO29B9C8",
+        "balance": 10000
+    },
+    {
+        "name": "Nimish Kushwah",
+        "age": 20,
+        "email": "",
+        "pin": 2121,
+        "phone": "8602567798",
+        "accountno": "2zIj040W",
+        "balance": 0
+    }
+]
