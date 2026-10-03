@@ -51,20 +51,13 @@ A simple bank management system built with **Python** and **Streamlit**. It lets
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Nimishhh21/Lena-dena-bank.git
-cd Lena-dena-bank
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 pip install streamlit
 ```
 
-### 3. Run the app
+### 2. Run the app
 
 ```bash
 streamlit run app.py
@@ -105,14 +98,10 @@ The `VijayMallyaBank` class handles all the data operations:
 - Login sessions instead of entering the PIN each time
 - Stronger password hashing (e.g. bcrypt with salt)
 
-## ⚠️ Disclaimer
-
-This is a **learning project** and not a real banking system. Do not use real personal or financial information.
 
 ## 👨‍💻 Author
 
-Made by **Nimish Kushwah**
-GitHub: [@Nimishhh21](https://github.com/Nimishhh21)
+Made by **Kamran Shahid and Nimish Kushwaha**
 
 ---
 
