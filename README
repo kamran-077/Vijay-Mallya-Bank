@@ -2,7 +2,9 @@
 
 A simple bank management system built with Python and Streamlit. It lets users open an account, deposit and withdraw money,
 update their details, view their account, and delete it, all from a clean web interface.
+## 📸 Screenshots
 
+![Create Account](screenshots/bank.png)
 "C:\Users\shahi\Pictures\Screenshots\bank.png"
 
 ✨ Features
