@@ -3,7 +3,7 @@
 A simple bank management system built with Python and Streamlit. It lets users open an account, deposit and withdraw money,
 update their details, view their account, and delete it, all from a clean web interface.
 
-![VijayMallyaBank Screenshot](bank.png)
+"C:\Users\shahi\Pictures\Screenshots\bank.png"
 
 ✨ Features
 Create Account – Open a new account with name, age, email, 4-digit PIN and phone number
